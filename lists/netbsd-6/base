@@ -8,3 +8,4 @@ wget
 mc
 unix2dos
 logrotate
+netcat
