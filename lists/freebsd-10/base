@@ -1,3 +1,6 @@
+bash
+flock
+sudo
 bzip2
 unzip
 zip
