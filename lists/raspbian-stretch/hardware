@@ -1,0 +1,8 @@
+hdparm
+sdparm
+smartmontools
+ethtool
+iptraf
+sysstat
+firmware-linux
+bridge-utils
