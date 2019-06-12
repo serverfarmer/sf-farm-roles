@@ -8,5 +8,4 @@ gnupg
 curl
 mc
 tofrodos
-cron-apt
 ntpdate

@@ -8,7 +8,6 @@ gnupg
 curl
 mc
 tofrodos
-cron-apt
 ntpdate
 sysvinit-utils
 sysvinit-core

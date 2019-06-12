@@ -8,6 +8,5 @@ gnupg1
 curl
 mc
 tofrodos
-cron-apt
 ntpdate
 net-tools

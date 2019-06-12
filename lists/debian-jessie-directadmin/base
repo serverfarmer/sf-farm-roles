@@ -7,5 +7,4 @@ rsync
 gnupg
 mc
 tofrodos
-cron-apt
 ntpdate
