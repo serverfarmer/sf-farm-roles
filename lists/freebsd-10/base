@@ -8,6 +8,5 @@ rsync
 gnupg
 curl
 wget
-mc
 unix2dos
 logrotate

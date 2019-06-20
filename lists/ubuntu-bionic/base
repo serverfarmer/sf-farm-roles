@@ -6,6 +6,5 @@ ssh
 rsync
 gnupg1
 curl
-mc
 tofrodos
 ntpdate

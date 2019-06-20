@@ -6,7 +6,6 @@ ssh
 rsync
 gnupg
 curl
-mc
 tofrodos
 ntpdate
 sysvinit-utils
