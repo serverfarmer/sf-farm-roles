@@ -4,6 +4,7 @@ zip
 rsync
 gnupg2
 curl
+wget
 dos2unix
 man-db
 ntpdate
