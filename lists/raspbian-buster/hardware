@@ -1,0 +1,9 @@
+hdparm
+sdparm
+smartmontools
+ethtool
+iptraf-ng
+sysstat
+firmware-linux
+firmware-realtek
+bridge-utils
